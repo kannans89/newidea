@@ -1,0 +1,2 @@
+what are different ways to create an object other than new keyword.
+ eg:clone , getClass().newInstance(),serializaiton

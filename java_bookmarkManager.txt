@@ -1,0 +1,3 @@
+create a Gui/console based bookmarks keeper app
+this will have a feature to download all bookmarks as an
+html file also..

@@ -1,0 +1,3 @@
+What are different ways to create object.
+
+ 1)Clone an object , create an object is name="kannan"

@@ -1,0 +1,6 @@
+
+merchant table (id balance)
+customer table (id balance)
+
+insert and update in a transaction , if it fails 
+it should rollback

@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Duck_typing#In_JavaScript
+https://en.wikipedia.org/wiki/Duck_typing#In_C.23
+https://en.wikipedia.org/wiki/Duck_typing#In_Java
+

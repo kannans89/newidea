@@ -1,0 +1,3 @@
+Create a Calculator class ,add(int,int):int
+should through NegativesAreNotSupported() Exception which 
+will also tell which is the negative number passed

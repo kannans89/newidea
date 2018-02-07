@@ -1,0 +1,21 @@
+1)Create a contactBookApp --> read and add contacts
+  1)Serailize all the contacts 
+  2)ContactBook / ContactBookStore
+
+ 
+ refactor: to add search by name,search by id etc..feature
+ note: don't use absolute path ,use relative path
+
+
+2)Create an employee-data-dump-app which reads emp.csv file
+and sorts and returns data based on user input. sort by firstname,sort by lastname
+
+
+3)Create a notesapp , note title and description
+   Implement using JAVA Swing / Console  
+
+
+
+
+
+

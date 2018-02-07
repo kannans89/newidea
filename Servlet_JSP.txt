@@ -1,0 +1,29 @@
+first create jsp pages
+            --> welcome.jsp?developer="kannan"
+                session.jsp
+                application.jsp
+                summary.jsp
+                login.html -->post to auth.jsp
+
+//discuss on redirect and forward
+
+servlet app --> using eclipse
+            do the same set of examples using servlet
+     com.techlabs.servlet
+                -->WelcomeServlet 
+                   SessionServlet
+                   applicationServlet
+                   SummaryServlet
+
+
+NOTE: ASK students to put jsp files inside WEB-INF/folder is view folder
+Now do the all the with both servlet and jsp both(implement as a jsp)
+
+ mvc-app// 
+
+
+
+          
+
+
+

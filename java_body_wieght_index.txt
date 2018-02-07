@@ -1,0 +1,2 @@
+create a person class which takes weight,height and
+calcuates bodyweight index and tell you overweight obese..etc

@@ -1,0 +1,2 @@
+create a login.html action is auth.php on submission
+it wil give you red *  , after filling form it will submit

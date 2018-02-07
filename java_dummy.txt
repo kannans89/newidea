@@ -1,0 +1,7 @@
+create function to print event nos and odd nos.
+create a function to print even no in a range ..
+modify that function to print even nos which are palidandrom
+or evenpaliandromes
+
+ printEventPalidnromes(100,200);
+ int[] evenPalidaromes = getEventPalidnromes(100,200);

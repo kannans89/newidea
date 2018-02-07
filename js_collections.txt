@@ -1,0 +1,2 @@
+create an array , array of objects , do a crud on the array
+use push,splice --> use for each in an array.

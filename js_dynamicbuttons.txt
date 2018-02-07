@@ -1,0 +1,11 @@
+make a comments box and buttton . on click of button submit
+comments , the comments should be stored to db
+
+button should be removed and should work on enter key press.
+
+have a slider it will slide from 0 to 100 . based on the 
+value it will generate that many button. each button 
+should have an id .on click of it , it should be dispalyed.
+
+
+How to make two buttons and single listener and retrieve who has clicked

@@ -1,0 +1,8 @@
+Map<string,List<Employees>>
+Map<string,List<Employees>>
+
+Map<"swabhav.techlabs",new ArrayList<Employee>(){})
+Note--> id and title and description
+
+Map<"swbhav.notes",swabhavNotes);
+Map<"aurionPro.notes",aurionProNotes);

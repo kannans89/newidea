@@ -1,0 +1,11 @@
+create a generic class Node<T> which has data and next
+create three nodes node1,node2,node3 .link all of them to eachother . make a printDetails and pass printDetails(node1) .
+It should print all the nodes from start to end .
+
+
+create SwabhavQ ,SwabhavStack using linkedlist
+
+Create a custom SwabhavLinkedList / singly linked.
+there is a method to add , it will run and while loop and at end it will add
+
+

@@ -1,0 +1,47 @@
+How to generate UUID/GUID in java
+
+All employee id , student id should be UUID
+
+IN account class ,No of txns per account holders and no of txns
+across all account holders.
+
+In account class , print old and new balances .
+
+In PrintDetails(Account) display the type of concerete class
+passed.
+
+Find the BlueBox game ??
+
+Account --> have List<Transaction>
+
+Employeee polymorphism ? add abstract method getSalarySplitup():String which returns
+string which has "hra:value,ta:value,da:value"
+
+
+In interfaces,make ICrudable , implemented by ShipmentDB,CustomerDB , InvoiceDB
+test class make ICrudbale x;
+                 x=new ShipementDB();
+
+void doDBOperations(ICrudable x)
+
+
+Set --> Read data from csv file and display customers in ascending and descending 
+orders of fname,lname or salary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+reflection -->
+customAnnotation --> NeedToRefactor
+Personclass --> gives bodyweightIndex,Obese,Under
+CustomException -->
+WriteToa file
+ReadFrom a file
+Serialize an object to file
+Deserialize object from file
+
+

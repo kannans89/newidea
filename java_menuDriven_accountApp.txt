@@ -1,0 +1,9 @@
+1.open account
+2.display
+3.search
+4.transaction
+5.exit
+
+while(!isExit){
+
+}

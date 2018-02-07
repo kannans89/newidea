@@ -1,0 +1,17 @@
+it should build the hierary and display in levels..
+
+it should have a app.parseToXml() --> returns a string 
+as xml.
+
+ <employees>
+    <empoyee name="KING">
+      
+    <empoyee name="John">
+    </employee>
+
+    <empoyee name="Blake">
+    </employee>
+
+    </employee>
+
+ </employees>

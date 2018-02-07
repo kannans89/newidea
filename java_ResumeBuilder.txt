@@ -1,0 +1,2 @@
+Dynamic Resume generator.. asking name..etc...image path or url
+this will generate an html page

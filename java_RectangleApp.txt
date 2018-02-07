@@ -1,0 +1,13 @@
+create a rectangle app with width and height with in 10 to 100
+range .if width goes less than 10 , it should get reset to 10
+if it goes beyond 100 it should get reset to 100 again.
+
+follow up: add borderColor and it should  go only RED,BLUE,GREEN
+
+obj.setColor("reD") should work
+obj.setColor("Red") should also work
+
+student will get to know how to use ignoreCase()
+
+
+

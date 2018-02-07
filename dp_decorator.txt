@@ -1,0 +1,50 @@
+create a  Account acc = new Account(".."):
+          AccountTxnLogger log=new AccountTxnLogger(acc);
+          log.deposit(100);
+   //log the txtns details
+
+          AccountEmailer emailer = new AccountEmailer(log);
+          AccountSms      sms    = new AccountSms(emailer);
+
+          sms.depsoit(200); //should do deposit ,log ,email,sms
+
+abstract class AccountDecorator{
+     protected IAccount account;
+     public AccountDecorator(IAccount)
+}
+
+pubic class Logger extends AccountDecorator implements IAccount
+ {
+   public Logger(IAccount acc){
+        super(acc);
+   }
+  @Override
+  public void deposit(amt) {
+       //before
+       account.deposit(amt);
+      //after
+   }
+
+}
+
+pubic class Emailer extends AccountDecorator implements IAccount
+ {
+   public Emailer(IAccount acc){
+        super(acc);
+   }
+  @Override
+  public void deposit(amt) {
+          account.deposit(amt);
+      //after send sms
+   }
+
+}
+
+emailer= new Emailer(new Logger(acc1));
+
+emailer.deposit(); // will call logger.deposit // will call account.deposit
+
+
+
+
+

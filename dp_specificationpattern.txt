@@ -1,0 +1,7 @@
+implement search by firstName,lastName in the application.
+demo done by Rahul Vishwakarma.
+
+Specification pattern developed by Eric Evans/Domain Driven Design
+
+
+
